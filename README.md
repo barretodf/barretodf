@@ -3,13 +3,7 @@
 Sou apaixonado por criar soluções inovadoras utilizando as mais recentes tecnologias. Atualmente, estou focado em desenvolver aplicações web utilizando JavaScript e Node.js, CSS, HTML, Bootstrap.
 | Tecnologia | |
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-<img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square" alt="Bootstrap" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-<img src="https://img.shields.io/badge/json-F0C27B?style=flat-square" alt="JSON" />
-<img src="https://img.shields.io/badge/express.js-49A9EA?style=flat-square" alt="Express.js" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/><img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat-square" alt="Bootstrap" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/><img src="https://img.shields.io/badge/json-F0C27B?style=flat-square" alt="JSON" /><img src="https://img.shields.io/badge/express.js-49A9EA?style=flat-square" alt="Express.js" />
 
 **Habilidades:**
 * **Frontend:** JavaScript, HTML, CSS, Bootstrap
