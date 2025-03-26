@@ -1,4 +1,4 @@
-##Oi Geeeeente!!!! Eu sou o Edmilson Barreto!
+##Eu sou o Edmilson Barreto!
 
 Sou apaixonado por criar soluções inovadoras utilizando as mais recentes tecnologias. Atualmente, estou focado em desenvolver aplicações web utilizando JavaScript e Node.js, CSS, HTML, Bootstrap.
 | Tecnologia | |
